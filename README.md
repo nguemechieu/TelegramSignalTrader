@@ -12,5 +12,8 @@
 
 - Set configuration your parameters
 
-- and load  - Load TelemetrySignalTrader on your chart 
+- and  Load TelegramSignalTrader on your chart 
 - Welcome and Happy trading
+# Architecture
+
+![configuration](architechture.png)
