@@ -30,7 +30,7 @@ This is great tool for anyone who may want to take advantanges of market fluctua
  - If you see your channel or bot name , you have successfully installed telegramSignalTrader.
 - Welcome and Happy trading
 
-# Architecture
+# Architechture
 
 ![configuration](architechture.png)
 
