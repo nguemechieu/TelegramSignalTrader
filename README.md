@@ -29,8 +29,11 @@ This is great tool for anyone who may want to take advantanges of market fluctua
  - Wait for the Application to display a message about your parameters
  - If you see your channel or bot name , you have successfully installed telegramSignalTrader.
 - Welcome and Happy trading
+# Demo
 
-# Architechture
+[![Watch the video](telegramsignaltrader.png)](https://youtu.be/k0Ly_gyRb5U)
+
+# Architecture
 
 ![configuration](architechture.png)
 
