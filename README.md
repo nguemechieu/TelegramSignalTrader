@@ -21,19 +21,19 @@ This is a great tool for anyone who may want to take advantage of market fluctua
 - Account Management
 
 ## Installation
- - Copy all  folders  that are inside include directory into your include directory
+ - Copy all  folders  that are inside the include directory into your include directory
  - Copy all files that are inside the expert directory into your expert directory
  - load TelegramSignalTrader into your chart
- - Set your parameters (api key and chat-id or channel name)
+ - Set your parameters (API key and chat-id or channel name)
  - Launch the Application
  - Wait for the Application to display a message about your parameters
- - If you see your channel or bot name , you have successfully installed telegramSignalTrader.
-- Welcome and Happy trading
+ - If you see your channel or bot name, you have successfully installed telegramSignalTrader.
+- Welcome and Happy Trading
 # Demo
 
 [![Watch the video](telegramsignaltrader.png)](https://youtu.be/k0Ly_gyRb5U)
 
-# Architecture
+# Architechture
 
 ![configuration](architechture.png)
 
