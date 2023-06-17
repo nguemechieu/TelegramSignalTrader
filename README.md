@@ -30,7 +30,8 @@ This is a great tool for anyone who may want to take advantage of market fluctua
  - If you see your channel or bot name , you have successfully installed telegramSignalTrader.
 - Welcome and Happy trading
 # Demo
-
+![chat message](chat.png)
+![channel](channel.png)
 [![Watch the video](telegramsignaltrader.png)](https://youtu.be/k0Ly_gyRb5U)
 
 # Architecture
