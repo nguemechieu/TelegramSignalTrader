@@ -1,12 +1,12 @@
 # TelegramSignalTrader
 
- Live Trade ,Manual Trade , Management and  trade signals  execution from signal provider
+ Live Trade, Manual Trade, Management, and  trade signals  execution from the signal provider
 
 ## Description 
 System for MT4 and MT5   platforms.
-TelegramSignalTrader is a professional investment utility software witch allowed you to execute live trades directly from telegram using your 
-own signal provider, to trade manually from telegram, and to manage your porfolio.
-This is great tool for anyone who may want to take advantanges of market fluctuation while investing his time on something else instead of remaining in front of the screen the all day.
+TelegramSignalTrader is a professional investment utility software that allowed you to execute live trades directly from Telegram using your 
+own signal provider, trade manually from Telegram, and manage your portfolio.
+This is a great tool for anyone who may want to take advantage of market fluctuation while investing his time in something else instead of remaining in front of the screen all day.
 
 
 ![image](logo.png)
