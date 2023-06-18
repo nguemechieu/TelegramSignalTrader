@@ -16,6 +16,7 @@
 FROM ubuntu:focal
 RUN apt-get update
 RUN      apt-get -y install wget
+RUN apt-get upgrade -y
 
 ADD https://dl.winehq.org/wine-builds/winehq.key /winehq.key
 
@@ -52,12 +53,19 @@ USER wine
 ENV WINEARCH win32
 # Autorun MetaTrader Terminal.
 
-RUN apt upgrade
-RUN wget https://download.mql5.com/cdn/web/metaquotes.software.corp/mt4/mt4ubuntu.sh ; \
-    chmod +x mt4ubuntu.sh ;  \
-    ./mt4ubuntu.sh
+# Downloading meta-trader 4
+RUN wget https://download.mql5.com/cdn/web/gain.capital.group/mt4/forexcom4setup.exe
+# Install the meta-trader 4 package
 
 
 
-##ENTRYPOINT [ "wine" ]
-##CMD [ "/Home directory/.mt4/drive_c/Program Files/MetaTrader 4/terminal.exe", "/portable" ]
+RUN wine /home/wine/forexcom4setup.exe
+
+
+ENTRYPOINT [ "wine" ]
+CMD [ "/Program Files (x86)/FOREX.com US/terminal.exe", "/portable" ]
+#Wine creates a separate virtual logical drive with the necessary environment for every installed program. The default path of the installed terminal data folder is as follows:
+#
+#Home directory\.mt4\drive_c\Program Files\MetaTrader 4
+#
+
