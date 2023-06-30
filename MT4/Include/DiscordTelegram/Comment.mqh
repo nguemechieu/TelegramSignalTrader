@@ -103,9 +103,9 @@ private:
    {
       m_auto_back_color=(color)ChartGetInteger(0,CHART_COLOR_BACKGROUND);
       color m_back_gray=Color2Gray(m_auto_back_color);
-      uchar channel=GrayChannel(m_back_gray);
+      uchar channels=GrayChannel(m_back_gray);
       //---
-      if(channel>120)
+      if(channels>120)
       {
          if(m_back_color==clrNONE)
             m_auto_border_color=clrNONE;
