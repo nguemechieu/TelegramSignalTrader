@@ -37,8 +37,7 @@ This is a great tool for anyone who may want to take advantage of market fluctua
 
 ![configuration](architechture.png)
 
-### VPS 
-USE docker container to run TelegramSignalTrader
+# docker container TelegramSignalTrader
       
 ### Commands:
              docker pull TelegramSignalTrader
