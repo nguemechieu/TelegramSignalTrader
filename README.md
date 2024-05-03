@@ -1,47 +1,49 @@
 # TelegramSignalTrader
 
- Live Trade, Manual Trade, Management, and  trade signals  execution from the signal provider
+**TelegramSignalTrader** is a sophisticated investment utility software designed for MT4 and MT5 platforms. It empowers users to execute live trades directly from Telegram, leverage manual trading capabilities, and efficiently manage their investment portfolios. This tool is particularly valuable for individuals seeking to capitalize on market fluctuations without the need to constantly monitor screens.
 
-## Description 
-System for MT4 and MT5   platforms.
-TelegramSignalTrader is a professional investment utility software that allowed you to execute live trades directly from Telegram using your 
-own signal provider, trade manually from Telegram, and manage your portfolio.
-This is a great tool for anyone who may want to take advantage of market fluctuation while investing his time in something else instead of remaining in front of the screen all day.
+![TelegramSignalTrader Logo](logo.png)
 
+## Key Features
 
-![image](logo.png)
-## Features
+- Live Trade Execution
+- Manual Trade Options
+- Signal Provider Integration
+- Account Management Tools
 
-- Screenshots
-- Multiple
-- trade signals
-- Live Trade
-- Manual Trade
-- Signals trader
-- Account Management
+## Description
 
-## Installation
- - Copy all  folders  that are inside the include directory into your include directory
- - Copy all files that are inside the expert directory into your expert directory
- - load TelegramSignalTrader into your chart
- - Set your parameters (API key and chat-id or channel name)
- - Launch the Application
- - Wait for the Application to display a message about your parameters
- - If you see your channel or bot name, you have successfully installed telegramSignalTrader.
-- Welcome and Happy Trading
-# Demo
+TelegramSignalTrader is a professional-grade solution that seamlessly integrates with Telegram, enabling users to receive trade signals, execute trades, and manage their accounts with ease. Whether you prefer automated signal execution or manual trading, this platform provides the flexibility and functionality you need to stay ahead in the market.
 
-[![Watch the video](telegramsignaltrader.png)](https://youtu.be/k0Ly_gyRb5U)
+## Installation Process
 
-# Architecture
+1. **Copy Files**: Copy all folders from the "include" directory into your platform's include directory. Similarly, copy all files from the "expert" directory into your expert directory.
+2. **Load TelegramSignalTrader**: Load the TelegramSignalTrader application onto your trading chart.
+3. **Configure Parameters**: Set your API key and chat ID or channel name within the application.
+4. **Launch Application**: Launch TelegramSignalTrader and wait for confirmation of successful parameter setup.
+5. **Verification**: Check for your channel or bot name confirmation to ensure successful installation.
+6. **Start Trading**: Once installed, you are ready to start trading and managing your portfolio through TelegramSignalTrader.
 
-![configuration](architechture.png)
+## Demo
 
-# docker container TelegramSignalTrader
-      
-### Commands:
-             docker pull TelegramSignalTrader
-             
-             docker run - name TelegramSignalTrader
-![chat message](chat.png)
-![channel](channel.png)
+[![Watch the Demo Video](telegramsignaltrader.png)](https://youtu.be/k0Ly_gyRb5U)
+
+## Architecture Overview
+
+![TelegramSignalTrader Architecture](architecture.png)
+
+## Using Docker Container for TelegramSignalTrader
+
+### Installation Commands:
+
+```bash
+docker pull TelegramSignalTrader
+docker run --name TelegramSignalTrader
+```
+
+![TelegramSignalTrader Chat Message](chat.png)
+![TelegramSignalTrader Channel](channel.png)
+
+---
+
+Feel free to reach out to **TradeAdviser LLC** for any support or inquiries at +1 (302) 317-6610 or via email at nguemechieu@live.com. Please note that the software is distributed under the Apache 2 license, and standard trading risk disclaimers apply. Happy Trading!
