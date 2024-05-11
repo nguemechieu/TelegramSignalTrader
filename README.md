@@ -58,7 +58,6 @@ This script is distributed under the Apache 2 License. See the [LICENSE](LICENSE
 
 ## Support
 
-For support or inquiries, please contact tradeadviser Llc. at [nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
+For support or inquiries, please contact noel nguemechieu. at [nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
 ```
 
-Feel free to adjust or add more details as needed!
