@@ -5,7 +5,9 @@
  **Website:** [TradeAdviser](https://www.tradeadviser.org)
 **GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
-[!TelegramSignalTrader]('https://github.com/nguemechieu/TelegramSignalTrader/blob/master/logo.png')
+![TelegramSignalTrader]('https://github.com/nguemechieu/TelegramSignalTrader/blob/master/logo.png')
+
+
 ## Description
 
 This is the `TelegramSignalTrader` Expert Advisor (EA) script developed by nguemechieu noel . It is a very interactive smartBot designed to use multiple indicators based on defined strategies to generate trade signals and open orders. The EA integrates a news filter to allow trading based on news events and can generate signals with screenshots on Telegram or other platforms without using DLL imports. This capability enables the EA to trade on your VPS without restrictions. The Bot can trade, generate, manage, and send trading signals to a Telegram channel.
@@ -57,5 +59,8 @@ This script is distributed under the Apache 2 License. See the [LICENSE](LICENSE
 ## Support
 
 For support or inquiries, please contact noel nguemechieu. at [nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
+
+
+![TelegramSignalTrader]('https://github.com/nguemechieu/TelegramSignalTrader/blob/master/l=TelegramSignalTrader.png')
 ```
 
