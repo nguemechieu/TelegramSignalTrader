@@ -5,7 +5,7 @@
  - [TradeAdviser](https://www.tradeadviser.org)
  - GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
-## ![TelegramSignalTrader](logo.png)
+## ![TelegramSignalTrader](TST.png)
 
 
 ## Description
@@ -18,7 +18,7 @@ This is the `TelegramSignalTrader` Expert Advisor (EA) script developed by nguem
 - **Version:** 2.01
 
 ## Requirements
-
+ 
 - **Tester File:** trade.csv
 - **Tester Library:** Libraries
 - **Stack Size:** 1000000
@@ -45,7 +45,7 @@ This is the `TelegramSignalTrader` Expert Advisor (EA) script developed by nguem
 1. Load the EA onto your MT4 chart.
 2. Configure the settings such as language, token, username filter, templates, and update mode.
 3. Run the EA and monitor its performance.
-
+## ![TelegramSignalTrader](Chat.png)
 ## Configuration
 
 - **Language:** Select the language for the Bot (English or another language).
@@ -59,5 +59,6 @@ This is the `TelegramSignalTrader` Expert Advisor (EA) script developed by nguem
 This script is distributed under the Apache 2 License. See the [LICENSE](LICENSE) file for details.
 
 ## Support
+
 
 For support or inquiries, please contact noel nguemechieu. at [nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
