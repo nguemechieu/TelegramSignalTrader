@@ -1,11 +1,11 @@
 
 # TelegramSignalTrader.mq4
 #                                      WELCOME TO  TelegramSignalTrader
- **Copyright:** Copyright 2023, tradeadviser Llc.
- **Website:** [TradeAdviser](https://www.tradeadviser.org)
-**GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
+ -**Copyright:** Copyright 2023, tradeadviser Llc.
+ -**Website:** [TradeAdviser](https://www.tradeadviser.org)
+ -**GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
-![TelegramSignalTrader](logo.png)
+## ![TelegramSignalTrader](logo.png)
 
 
 ## Description
@@ -28,6 +28,8 @@ This is the `TelegramSignalTrader` Expert Advisor (EA) script developed by nguem
 1. Copy the `TelegramSignalTrader.mq4` file to your MetaTrader 4 (MT4) platform's Experts folder.
 2. Compile the script in MetaEditor.
 3. Attach the EA to your desired chart in MT4.
+
+4. ![telegramsignaltrader](telegramsignaltrader.png)
 
 ## Features
 
