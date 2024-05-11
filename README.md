@@ -1,11 +1,9 @@
 
-
-```markdown
 # TelegramSignalTrader.mq4
-- WELCOME TO 
-- **Copyright:** Copyright 2023, tradeadviser Llc.
-- **Website:** [TradeAdviser](https://www.tradeadviser.org)
-- **GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
+#                                      WELCOME TO  TelegramSignalTrader
+ **Copyright:** Copyright 2023, tradeadviser Llc.
+ **Website:** [TradeAdviser](https://www.tradeadviser.org)
+**GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
 [!TelegramSignalTrader]('https://github.com/nguemechieu/TelegramSignalTrader/blob/master/logo.png')
 ## Description
