@@ -1,49 +1,64 @@
-# TelegramSignalTrader
+Here's a README file for your `TelegramSignalTrader.mq4` script:
+# ICON
+![TelegramSignalTrader]('./TelegramSignalTrader.ico')
+```markdown
+# TelegramSignalTrader.mq4
 
-**TelegramSignalTrader** is a sophisticated investment utility software designed for MT4 and MT5 platforms. It empowers users to execute live trades directly from Telegram, leverage manual trading capabilities, and efficiently manage their investment portfolios. This tool is particularly valuable for individuals seeking to capitalize on market fluctuations without the need to constantly monitor screens.
-
-![TelegramSignalTrader Logo](logo.png)
-
-## Key Features
-
-- Live Trade Execution
-- Manual Trade Options
-- Signal Provider Integration
-- Account Management Tools
+- **Copyright:** Copyright 2023, tradeadviser Llc.
+- **Website:** [TradeAdviser](https://www.tradeadviser.org)
+- **GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
 ## Description
 
-TelegramSignalTrader is a professional-grade solution that seamlessly integrates with Telegram, enabling users to receive trade signals, execute trades, and manage their accounts with ease. Whether you prefer automated signal execution or manual trading, this platform provides the flexibility and functionality you need to stay ahead in the market.
+This is the `TelegramSignalTrader` Expert Advisor (EA) script developed by nguemechieu noel . It is a very interactive smartBot designed to use multiple indicators based on defined strategies to generate trade signals and open orders. The EA integrates a news filter to allow trading based on news events and can generate signals with screenshots on Telegram or other platforms without using DLL imports. This capability enables the EA to trade on your VPS without restrictions. The Bot can trade, generate, manage, and send trading signals to a Telegram channel.
 
-## Installation Process
+## Version
 
-1. **Copy Files**: Copy all folders from the "include" directory into your platform's include directory. Similarly, copy all files from the "expert" directory into your expert directory.
-2. **Load TelegramSignalTrader**: Load the TelegramSignalTrader application onto your trading chart.
-3. **Configure Parameters**: Set your API key and chat ID or channel name within the application.
-4. **Launch Application**: Launch TelegramSignalTrader and wait for confirmation of successful parameter setup.
-5. **Verification**: Check for your channel or bot name confirmation to ensure successful installation.
-6. **Start Trading**: Once installed, you are ready to start trading and managing your portfolio through TelegramSignalTrader.
+- **Expert Advisor Name:** TelegramSignalTrader
+- **Version:** 2.01
 
-## Demo
+## Requirements
 
-[![Watch the Demo Video](telegramsignaltrader.png)](https://youtu.be/k0Ly_gyRb5U)
+- **Tester File:** trade.csv
+- **Tester Library:** Libraries
+- **Stack Size:** 1000000
 
-## Architecture Overview
+## Installation
 
-![TelegramSignalTrader Architecture](architecture.png)
+1. Copy the `TelegramSignalTrader.mq4` file to your MetaTrader 4 (MT4) platform's Experts folder.
+2. Compile the script in MetaEditor.
+3. Attach the EA to your desired chart in MT4.
 
-## Using Docker Container for TelegramSignalTrader
+## Features
 
-### Installation Commands:
+- Interactive smartBot with multiple indicators.
+- News filter integration.
+- Generates trade signals with screenshots.
+- Sends signals to Telegram or other platforms.
+- Can trade, manage orders, and send signals to a Telegram channel.
+- Easy-to-use and configurable settings.
 
-```bash
-docker pull TelegramSignalTrader
-docker run --name TelegramSignalTrader
+## Usage
+
+1. Load the EA onto your MT4 chart.
+2. Configure the settings such as language, token, username filter, templates, and update mode.
+3. Run the EA and monitor its performance.
+
+## Configuration
+
+- **Language:** Select the language for the Bot (English or another language).
+- **Token:** Set the Telegram API token for the Bot.
+- **Username Filter:** Filter messages based on Telegram usernames.
+- **Templates:** Configure message templates for the Bot.
+- **Update Mode:** Set the update frequency for the Bot (fast, normal, slow).
+
+## License
+
+This script is distributed under the Apache 2 License. See the [LICENSE](LICENSE) file for details.
+
+## Support
+
+For support or inquiries, please contact tradeadviser Llc. at [nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
 ```
 
-![TelegramSignalTrader Chat Message](chat.png)
-![TelegramSignalTrader Channel](channel.png)
-
----
-
-Feel free to reach out to **TradeAdviser LLC** for any support or inquiries at +1 (302) 317-6610 or via email at nguemechieu@live.com. Please note that the software is distributed under the Apache 2 license, and standard trading risk disclaimers apply. Happy Trading!
+Feel free to adjust or add more details as needed!
