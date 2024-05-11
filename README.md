@@ -5,7 +5,7 @@
  **Website:** [TradeAdviser](https://www.tradeadviser.org)
 **GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
-![TelegramSignalTrader]('https://github.com/nguemechieu/TelegramSignalTrader/blob/master/logo.png')
+![TelegramSignalTrader](logo.png)
 
 
 ## Description
@@ -61,6 +61,6 @@ This script is distributed under the Apache 2 License. See the [LICENSE](LICENSE
 For support or inquiries, please contact noel nguemechieu. at [nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
 
 
-![TelegramSignalTrader]('https://github.com/nguemechieu/TelegramSignalTrader/blob/master/l=TelegramSignalTrader.png')
+![TelegramSignalTrader](TelegramSignalTrader.png)
 ```
 
