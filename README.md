@@ -1,9 +1,9 @@
 
 # TelegramSignalTrader.mq4
 #                                      WELCOME TO  TelegramSignalTrader
- - ** Copyright 2023, tradeadviser.org.
+ -  Copyright 2023, tradeadviser.org.
  - [TradeAdviser](https://www.tradeadviser.org)
- **GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
+ - GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
 ## ![TelegramSignalTrader](logo.png)
 
@@ -61,8 +61,3 @@ This script is distributed under the Apache 2 License. See the [LICENSE](LICENSE
 ## Support
 
 For support or inquiries, please contact noel nguemechieu. at [nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
-
-
-![TelegramSignalTrader](TelegramSignalTrader.png)
-```
-
