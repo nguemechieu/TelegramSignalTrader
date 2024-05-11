@@ -5,7 +5,7 @@
  - [TradeAdviser](https://www.tradeadviser.org)
  - GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
-## ![TelegramSignalTrader](TST.ico)
+## ![TelegramSignalTrader](looo.png)
 
 
 ## Description
