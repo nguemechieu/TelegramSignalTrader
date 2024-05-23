@@ -1,9 +1,10 @@
 WELCOME TO  TST (TelegramSignalTrader )
  -  Copyright 2023, tradeadviser.org.
  - [TradeAdviser](https://www.tradeadviser.org)
- - GitHub:** [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
+ - GitHub
+     [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
-## ![TelegramSignalTrader](logo.png)
+#![TelegramSignalTrader](TelegramSignalTrader_logo.png)
 
 
 ## Description
