@@ -4,7 +4,7 @@ WELCOME TO  TST (TelegramSignalTrader )
  - GitHub
      [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
 
-#![TelegramSignalTrader](TelegramSignalTrader_logo.png)
+![TelegramSignalTrader](TelegramSignalTrader_Logo.png)
 
 
 ## Description
