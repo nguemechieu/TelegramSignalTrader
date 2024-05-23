@@ -1,8 +1,5 @@
-WELCOME TO  TST (TelegramSignalTrader )
- -  Copyright 2023, tradeadviser.org.
- - [TradeAdviser](https://www.tradeadviser.org)
- - GitHub
-     [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
+#TelegramSignalTrader 
+
 
 ![TelegramSignalTrader](TelegramSignalTrader_Logo.png)
 
@@ -53,7 +50,11 @@ This is the `TelegramSignalTrader` Expert Advisor (EA) script developed by nguem
 - **Templates:** Configure message templates for the Bot.
 - **Update Mode:** Set the update frequency for the Bot (fast, normal, slow).
 
-## License
+ -  Copyright 2023, tradeadviser.org.
+ - [TradeAdviser](https://www.tradeadviser.org)
+ - GitHub
+     [TelegramSignalTrader Repository](https://github.com/nguemechieu/TelegramSignalTrader)
+### License
 
 This script is distributed under the Apache 2 License. See the [LICENSE](LICENSE) file for details.
 
