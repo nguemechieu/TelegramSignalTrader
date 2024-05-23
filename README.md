@@ -1,4 +1,4 @@
-#TelegramSignalTrader 
+TelegramSignalTrader 
 
 
 ![TelegramSignalTrader](TelegramSignalTrader_Logo.png)
