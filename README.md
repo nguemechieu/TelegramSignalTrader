@@ -10,7 +10,7 @@ This is the `TelegramSignalTrader` Expert Advisor (EA) script developed by nguem
 
 ## Version
 
-- **Expert Advisor Name:** TelegramSignalTrader
+-   Expert Advisor Name: TelegramSignalTrader
 - **Version:** 2.01
 
 ## Requirements
@@ -61,4 +61,4 @@ This script is distributed under the Apache 2 License. See the [LICENSE](LICENSE
 ## Support
 
 
-For support or inquiries, please contact noel nguemechieu. at [nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
+For support or inquiries, please contact noel nguemechieu. at ?[!nguemechieu@live.com](mailto:nguemechieu@live.com) or call +1 (302) 317-6610.
